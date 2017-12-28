@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 0674-95FB
+
+ Directory of C:\Users\haritha_kadisetty\Desktop\MyGit
+
+12/28/2017  11:18 AM    <DIR>          .
+12/28/2017  11:18 AM    <DIR>          ..
+12/28/2017  11:18 AM                 0 file1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  150,696,984,576 bytes free
